@@ -1,0 +1,10 @@
+export default {
+    BACKGROUND: '#181C1F',
+    SURFACE: '#25343B',
+    PRIMARY: '#374955',
+    ON_PRIMARY_TEXT: '#D2E5F4',
+    ON_BACKGROUND_TEXT: '#FFFFFF',
+    SECONDARY_TEXT: '#B3B3B3',
+    WARNING: '#CF6679',
+    OK: '#5CB973'
+}
